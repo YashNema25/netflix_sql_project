@@ -11,7 +11,9 @@ Explore and categorize content based on specific criteria and keywords.
 
 The Data for this project is sourced from Kaggle dataset:
 -Dataset Link-: [Movie Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+## Business Problems and Solutions:
 
+### 1. Count the Number of Movies vs TV Shows:
 ```sql
 SELECT 
     type,
